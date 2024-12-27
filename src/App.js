@@ -6,7 +6,7 @@ function App() {
      <h1 className="title">
       my last app 
      </h1>
-     <h2> yosr</h2>
+     <h2> bonjour</h2>
    </div>
   /*<>
       <h1>
