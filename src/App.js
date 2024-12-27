@@ -4,7 +4,7 @@ function App() {
   return (
    <div>
      <h1 className="title">
-      New branch
+      my last app 
      </h1>
      <h2> yosr</h2>
    </div>
